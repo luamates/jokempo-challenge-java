@@ -45,7 +45,7 @@ public class PlayJokempo {
                 continue;
             }
 
-            // Comparação
+            // Comparação das jogadas
             if (userScore == adversaryScore) {
                 System.out.println("Empate!");
             } else if ((userScore == pedra && adversaryScore == tesoura)
