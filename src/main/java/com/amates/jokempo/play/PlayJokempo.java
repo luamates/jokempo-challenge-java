@@ -10,8 +10,8 @@ public class PlayJokempo {
         int papel = 2;
         int tesoura = 3;
 
-        int userScore = 0;
-        int adversaryScore = 0;
+        int userScore;
+        int adversaryScore;
 
         Scanner scanner = new Scanner(System.in);
 
